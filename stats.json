@@ -16,5 +16,20 @@
         "README.md": "synced"
       }
     }
+  },
+  "codechef": {
+    "solved": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0,
+    "shas": {
+      "CWC23QUALIF-cricket-world-cup-qualifier": {
+        "difficulty": "easy",
+        "platformDifficulty": "0-500",
+        "language": "42",
+        "CWC23QUALIF-cricket-world-cup-qualifier.42": "synced",
+        "README.md": "synced"
+      }
+    }
   }
 }
