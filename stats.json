@@ -1,13 +1,18 @@
 {
   "leetcode": {
-    "solved": 1,
+    "solved": 2,
     "easy": 0,
     "medium": 1,
-    "hard": 0,
+    "hard": 1,
     "shas": {
       "0129-sum-root-to-leaf-numbers": {
         "difficulty": "medium",
         "0129-sum-root-to-leaf-numbers.cpp": "synced",
+        "README.md": "synced"
+      },
+      "2911-minimum-changes-to-make-k-semi-palindromes": {
+        "difficulty": "hard",
+        "2911-minimum-changes-to-make-k-semi-palindromes.cpp": "synced",
         "README.md": "synced"
       }
     }
