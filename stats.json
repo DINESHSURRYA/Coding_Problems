@@ -48,7 +48,7 @@
     }
   },
   "codeforces": {
-    "solved": 8,
+    "solved": 9,
     "easy": 0,
     "medium": 0,
     "hard": 0,
@@ -107,6 +107,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "312B-archer.cpp": "synced",
+        "README.md": "synced"
+      },
+      "295C-greg-and-friends": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "295C-greg-and-friends.cpp": "synced",
         "README.md": "synced"
       }
     }
