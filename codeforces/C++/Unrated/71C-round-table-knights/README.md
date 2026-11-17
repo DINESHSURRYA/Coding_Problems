@@ -1,0 +1,1 @@
+<h2><a href="https://codeforces.com/contest/71/problem/C">71C. Round Table Knights</a></h2><h3>Difficulty: Unrated</h3><hr><p>Solved on <a href="https://codeforces.com/contest/71/problem/C">Codeforces</a>.</p>
