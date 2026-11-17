@@ -1,0 +1,1 @@
+<h2><a href="https://codeforces.com/contest/486/problem/E">486E. LIS of Sequence</a></h2><h3>Difficulty: Unrated</h3><hr><p>Solved on <a href="https://codeforces.com/contest/486/problem/E">Codeforces</a>.</p>

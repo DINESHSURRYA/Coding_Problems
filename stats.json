@@ -46,5 +46,20 @@
         "README.md": "synced"
       }
     }
+  },
+  "codeforces": {
+    "solved": 1,
+    "easy": 0,
+    "medium": 0,
+    "hard": 0,
+    "shas": {
+      "486E-lis-of-sequence": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "486E-lis-of-sequence.cpp": "synced",
+        "README.md": "synced"
+      }
+    }
   }
 }
