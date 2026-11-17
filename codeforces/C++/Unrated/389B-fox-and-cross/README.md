@@ -1,0 +1,1 @@
+<h2><a href="https://codeforces.com/contest/389/problem/B">389B. Fox and Cross</a></h2><h3>Difficulty: Unrated</h3><hr><p>Solved on <a href="https://codeforces.com/contest/389/problem/B">Codeforces</a>.</p>

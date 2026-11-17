@@ -48,7 +48,7 @@
     }
   },
   "codeforces": {
-    "solved": 1,
+    "solved": 2,
     "easy": 0,
     "medium": 0,
     "hard": 0,
@@ -58,6 +58,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "486E-lis-of-sequence.cpp": "synced",
+        "README.md": "synced"
+      },
+      "389B-fox-and-cross": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "389B-fox-and-cross.cpp": "synced",
         "README.md": "synced"
       }
     }
