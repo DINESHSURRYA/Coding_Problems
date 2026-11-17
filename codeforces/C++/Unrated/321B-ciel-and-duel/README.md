@@ -1,0 +1,1 @@
+<h2><a href="https://codeforces.com/contest/321/problem/B">321B. Ciel and Duel</a></h2><h3>Difficulty: Unrated</h3><hr><p>Solved on <a href="https://codeforces.com/contest/321/problem/B">Codeforces</a>.</p>
