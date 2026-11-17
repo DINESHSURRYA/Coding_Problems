@@ -8,6 +8,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DINESHSURRYA/LeetCode/tree/main/Medium/0129-sum-root-to-leaf-numbers) |
+## Check String Follows Anbn Pattern Not
+|  |
+| ------- |
+| [repeated-pattern-check](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/repeated-pattern-check) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -20,6 +24,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DINESHSURRYA/LeetCode/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Strings
+|  |
+| ------- |
+| [repeated-pattern-check](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/repeated-pattern-check) |
 ## Tree
 |  |
 | ------- |
