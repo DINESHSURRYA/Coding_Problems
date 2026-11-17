@@ -48,7 +48,7 @@
     }
   },
   "codeforces": {
-    "solved": 4,
+    "solved": 5,
     "easy": 0,
     "medium": 0,
     "hard": 0,
@@ -79,6 +79,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "71C-round-table-knights.cpp": "synced",
+        "README.md": "synced"
+      },
+      "484B-maximum-value": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "484B-maximum-value.cpp": "synced",
         "README.md": "synced"
       }
     }
