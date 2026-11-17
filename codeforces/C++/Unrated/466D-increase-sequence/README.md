@@ -1,0 +1,1 @@
+<h2><a href="https://codeforces.com/contest/466/problem/D">466D. Increase Sequence</a></h2><h3>Difficulty: Unrated</h3><hr><p>Solved on <a href="https://codeforces.com/contest/466/problem/D">Codeforces</a>.</p>
