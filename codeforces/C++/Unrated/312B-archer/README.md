@@ -1,0 +1,1 @@
+<h2><a href="https://codeforces.com/contest/312/problem/B">312B. Archer</a></h2><h3>Difficulty: Unrated</h3><hr><p>Solved on <a href="https://codeforces.com/contest/312/problem/B">Codeforces</a>.</p>
