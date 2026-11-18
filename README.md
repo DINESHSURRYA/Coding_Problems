@@ -24,6 +24,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DINESHSURRYA/LeetCode/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Strings
 |  |
 | ------- |

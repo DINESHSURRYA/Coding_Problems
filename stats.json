@@ -1,8 +1,8 @@
 {
   "leetcode": {
-    "solved": 2,
+    "solved": 3,
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 1,
     "shas": {
       "0129-sum-root-to-leaf-numbers": {
@@ -13,6 +13,13 @@
       "2911-minimum-changes-to-make-k-semi-palindromes": {
         "difficulty": "hard",
         "2911-minimum-changes-to-make-k-semi-palindromes.cpp": "synced",
+        "README.md": "synced"
+      },
+      "2914-minimum-number-of-changes-to-make-binary-string-beautiful": {
+        "difficulty": "medium",
+        "platformDifficulty": "Medium",
+        "language": "C++",
+        "2914-minimum-number-of-changes-to-make-binary-string-beautiful.cpp": "synced",
         "README.md": "synced"
       }
     }
