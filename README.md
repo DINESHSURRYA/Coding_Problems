@@ -16,6 +16,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [repeated-pattern-check](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/repeated-pattern-check) |
+## data structures
+|  |
+| ------- |
+| [145E-lucky-queries](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2400/145E-lucky-queries) |
 ## Depth-First Search
 |  |
 | ------- |

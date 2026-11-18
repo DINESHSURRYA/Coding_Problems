@@ -62,10 +62,10 @@
     }
   },
   "codeforces": {
-    "solved": 10,
+    "solved": 11,
     "easy": 0,
     "medium": 0,
-    "hard": 0,
+    "hard": 1,
     "shas": {
       "486E-lis-of-sequence": {
         "difficulty": "unknown",
@@ -135,6 +135,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "507E-breaking-good.cpp": "synced",
+        "README.md": "synced"
+      },
+      "145E-lucky-queries": {
+        "difficulty": "hard",
+        "platformDifficulty": "2400",
+        "language": "C++",
+        "145E-lucky-queries.cpp": "synced",
         "README.md": "synced"
       }
     }
