@@ -62,7 +62,7 @@
     }
   },
   "codeforces": {
-    "solved": 9,
+    "solved": 10,
     "easy": 0,
     "medium": 0,
     "hard": 0,
@@ -128,6 +128,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "295C-greg-and-friends.cpp": "synced",
+        "README.md": "synced"
+      },
+      "507E-breaking-good": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "507E-breaking-good.cpp": "synced",
         "README.md": "synced"
       }
     }

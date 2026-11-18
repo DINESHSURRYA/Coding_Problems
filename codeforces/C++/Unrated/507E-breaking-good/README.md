@@ -1,0 +1,1 @@
+<h2><a href="https://codeforces.com/contest/507/problem/E">507E. Breaking Good</a></h2><h3>Difficulty: Unrated</h3><hr><p>Solved on <a href="https://codeforces.com/contest/507/problem/E">Codeforces</a>.</p>
