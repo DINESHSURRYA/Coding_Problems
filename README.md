@@ -8,6 +8,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DINESHSURRYA/LeetCode/tree/main/Medium/0129-sum-root-to-leaf-numbers) |
+## Bit Magic
+|  |
+| ------- |
+| [xor-of-number-range](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/xor-of-number-range) |
 ## Check String Follows Anbn Pattern Not
 |  |
 | ------- |
@@ -20,6 +24,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DINESHSURRYA/LeetCode/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Find Xor Of Numbers From The Range L R
+|  |
+| ------- |
+| [xor-of-number-range](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/xor-of-number-range) |
 ## String
 |  |
 | ------- |

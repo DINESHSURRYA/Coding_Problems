@@ -40,9 +40,9 @@
     }
   },
   "gfg": {
-    "solved": 1,
+    "solved": 2,
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "shas": {
       "repeated-pattern-check": {
@@ -50,6 +50,13 @@
         "platformDifficulty": "Medium",
         "language": "C++",
         "repeated-pattern-check.cpp": "synced",
+        "README.md": "synced"
+      },
+      "xor-of-number-range": {
+        "difficulty": "medium",
+        "platformDifficulty": "Medium",
+        "language": "C++",
+        "xor-of-number-range.cpp": "synced",
         "README.md": "synced"
       }
     }
