@@ -1,4 +1,4 @@
-<h2><a href="https://www.codechef.com/DIFF500/problems/CARTRIP">CARTRIP. Car Trip</a></h2><h3>Difficulty: 0-500 (Rating: 374)</h3><hr>This is an example problem statement in markdown, and a mini guide on writing statements. Please make sure to remove everything here before publishing your problem.
+<h2><a href="https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CARTRIP">CARTRIP. Car Trip</a></h2><h3>Difficulty: 0-500 (Rating: 374)</h3><p><strong>Topics:</strong> <code>Basic Programming Concepts</code> <code>Basic Math</code> <code>Mathematics</code></p><hr>This is an example problem statement in markdown, and a mini guide on writing statements. Please make sure to remove everything here before publishing your problem.
 
 - Codechef uses markdown for its problem statements. Markdown syntax can be found [here](https://github.com/showdownjs/showdown/wiki/Showdown's-Markdown-syntax). Note the `[text](link)` syntax to insert a hyperlink.
 - Codechef also uses $\LaTeX$ to render mathematical expressions, and you are advised to make liberal use of it to make your statement look good.

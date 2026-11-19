@@ -8,6 +8,14 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
+## Basic Math
+|  |
+| ------- |
+| [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
+## Basic Programming Concepts
+|  |
+| ------- |
+| [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
 ## Binary Tree
 |  |
 | ------- |
@@ -36,6 +44,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [xor-of-number-range](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/xor-of-number-range) |
+## Mathematics
+|  |
+| ------- |
+| [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
 ## Microsoft
 |  |
 | ------- |
