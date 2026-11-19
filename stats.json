@@ -25,8 +25,8 @@
     }
   },
   "codechef": {
-    "solved": 1,
-    "easy": 1,
+    "solved": 2,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "shas": {
@@ -35,6 +35,13 @@
         "platformDifficulty": "0-500",
         "language": "42",
         "CWC23QUALIF-cricket-world-cup-qualifier.42": "synced",
+        "README.md": "synced"
+      },
+      "CARTRIP-car-trip": {
+        "difficulty": "easy",
+        "platformDifficulty": "0-500",
+        "language": "42",
+        "CARTRIP-car-trip.42": "synced",
         "README.md": "synced"
       }
     }
