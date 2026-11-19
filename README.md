@@ -4,6 +4,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+## Arrays
+|  |
+| ------- |
+| [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
 ## Binary Tree
 |  |
 | ------- |
@@ -32,6 +36,18 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [xor-of-number-range](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/xor-of-number-range) |
+## Microsoft
+|  |
+| ------- |
+| [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
+## Numbers
+|  |
+| ------- |
+| [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
+## Sorting
+|  |
+| ------- |
+| [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
 ## String
 |  |
 | ------- |
@@ -49,4 +65,8 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DINESHSURRYA/LeetCode/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Zoho
+|  |
+| ------- |
+| [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
 <!---LeetCode Topics End-->
