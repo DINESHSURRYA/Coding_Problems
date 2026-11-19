@@ -1,0 +1,1 @@
+<h2><a href="https://codeforces.com/contest/464/problem/A">464A. No to Palindromes!</a></h2><h3>Difficulty: Unrated</h3><hr><p>Solved on <a href="https://codeforces.com/contest/464/problem/A">Codeforces</a>.</p>

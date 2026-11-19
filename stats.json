@@ -69,7 +69,7 @@
     }
   },
   "codeforces": {
-    "solved": 12,
+    "solved": 13,
     "easy": 0,
     "medium": 0,
     "hard": 1,
@@ -156,6 +156,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "282E-sausage-maximization.cpp": "synced",
+        "README.md": "synced"
+      },
+      "464A-no-to-palindromes": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "464A-no-to-palindromes.cpp": "synced",
         "README.md": "synced"
       }
     }
