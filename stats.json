@@ -90,10 +90,10 @@
     }
   },
   "codeforces": {
-    "solved": 13,
+    "solved": 14,
     "easy": 0,
     "medium": 0,
-    "hard": 1,
+    "hard": 2,
     "shas": {
       "486E-lis-of-sequence": {
         "difficulty": "unknown",
@@ -184,6 +184,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "464A-no-to-palindromes.cpp": "synced",
+        "README.md": "synced"
+      },
+      "362D-fools-and-foolproof-roads": {
+        "difficulty": "hard",
+        "platformDifficulty": "2100",
+        "language": "C++",
+        "362D-fools-and-foolproof-roads.cpp": "synced",
         "README.md": "synced"
       }
     }
