@@ -61,9 +61,9 @@
     }
   },
   "gfg": {
-    "solved": 3,
+    "solved": 4,
     "easy": 0,
-    "medium": 3,
+    "medium": 4,
     "hard": 0,
     "shas": {
       "repeated-pattern-check": {
@@ -85,6 +85,13 @@
         "platformDifficulty": "Medium",
         "language": "C++",
         "sort-in-specific-order.cpp": "synced",
+        "README.md": "synced"
+      },
+      "min-flips-for-alternate": {
+        "difficulty": "medium",
+        "platformDifficulty": "Medium",
+        "language": "C++",
+        "min-flips-for-alternate.cpp": "synced",
         "README.md": "synced"
       }
     }

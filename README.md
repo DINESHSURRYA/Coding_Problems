@@ -17,6 +17,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
+## Binary Representation
+|  |
+| ------- |
+| [min-flips-for-alternate](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/min-flips-for-alternate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -55,6 +59,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [xor-of-number-range](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/xor-of-number-range) |
+## Goldman Sachs
+|  |
+| ------- |
+| [min-flips-for-alternate](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/min-flips-for-alternate) |
 ## graphs
 |  |
 | ------- |
@@ -88,6 +96,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 ## Strings
 |  |
 | ------- |
+| [min-flips-for-alternate](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/min-flips-for-alternate) |
 | [repeated-pattern-check](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/repeated-pattern-check) |
 ## Tree
 |  |
