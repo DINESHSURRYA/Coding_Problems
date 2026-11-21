@@ -111,7 +111,7 @@
     }
   },
   "codeforces": {
-    "solved": 15,
+    "solved": 16,
     "easy": 0,
     "medium": 0,
     "hard": 2,
@@ -219,6 +219,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "498C-array-and-operations.cpp": "synced",
+        "README.md": "synced"
+      },
+      "487B-strip": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "487B-strip.cpp": "synced",
         "README.md": "synced"
       }
     }
