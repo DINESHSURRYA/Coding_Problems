@@ -8,6 +8,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
 | [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
 ## Basic Math
 |  |
@@ -42,6 +43,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DINESHSURRYA/LeetCode/tree/main/Medium/0129-sum-root-to-leaf-numbers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
 ## dfs and similar
 |  |
 | ------- |
@@ -71,6 +73,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [362D-fools-and-foolproof-roads](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/362D-fools-and-foolproof-roads) |
+## Hash Table
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
 ## Mathematics
 |  |
 | ------- |
@@ -93,6 +99,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DINESHSURRYA/LeetCode/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
 ## Strings
 |  |
 | ------- |
@@ -102,6 +109,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DINESHSURRYA/LeetCode/tree/main/Medium/0129-sum-root-to-leaf-numbers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
 ## Two Pointers
 |  |
 | ------- |

@@ -1,8 +1,8 @@
 {
   "leetcode": {
-    "solved": 4,
+    "solved": 5,
     "easy": 0,
-    "medium": 2,
+    "medium": 3,
     "hard": 2,
     "shas": {
       "0129-sum-root-to-leaf-numbers": {
@@ -27,6 +27,13 @@
         "platformDifficulty": "Hard",
         "language": "C++",
         "3041-maximize-consecutive-elements-in-an-array-after-modification.cpp": "synced",
+        "README.md": "synced"
+      },
+      "3331-find-subtree-sizes-after-changes": {
+        "difficulty": "medium",
+        "platformDifficulty": "Medium",
+        "language": "C++",
+        "3331-find-subtree-sizes-after-changes.cpp": "synced",
         "README.md": "synced"
       }
     }
