@@ -111,7 +111,7 @@
     }
   },
   "codeforces": {
-    "solved": 14,
+    "solved": 15,
     "easy": 0,
     "medium": 0,
     "hard": 2,
@@ -212,6 +212,13 @@
         "platformDifficulty": "2100",
         "language": "C++",
         "362D-fools-and-foolproof-roads.cpp": "synced",
+        "README.md": "synced"
+      },
+      "498C-array-and-operations": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "498C-array-and-operations.cpp": "synced",
         "README.md": "synced"
       }
     }

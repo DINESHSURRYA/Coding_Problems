@@ -1,0 +1,1 @@
+<h2><a href="https://codeforces.com/contest/498/problem/C">498C. Array and Operations</a></h2><h3>Difficulty: Unrated</h3><hr><p>Solved on <a href="https://codeforces.com/contest/498/problem/C">Codeforces</a>.</p>
