@@ -8,6 +8,14 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [smallest-subarray-sum-greater-than-x](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/smallest-subarray-sum-greater-than-x) |
+## ad-hoc
+|  |
+| ------- |
+| [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
+## Algorithms
+|  |
+| ------- |
+| [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
 ## Amazon
 |  |
 | ------- |
@@ -23,6 +31,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
+| [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
 ## Basic Programming Concepts
 |  |
 | ------- |
@@ -43,6 +52,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [repeated-pattern-check](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/repeated-pattern-check) |
+## Constructive
+|  |
+| ------- |
+| [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
 ## data structures
 |  |
 | ------- |
@@ -99,6 +112,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
+| [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
 ## Microsoft
 |  |
 | ------- |

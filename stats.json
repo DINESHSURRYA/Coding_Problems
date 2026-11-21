@@ -39,8 +39,8 @@
     }
   },
   "codechef": {
-    "solved": 3,
-    "easy": 3,
+    "solved": 4,
+    "easy": 4,
     "medium": 0,
     "hard": 0,
     "shas": {
@@ -63,6 +63,13 @@
         "platformDifficulty": "0-500",
         "language": "42",
         "TABLETS-multivitamin-tablets.42": "synced",
+        "README.md": "synced"
+      },
+      "SIXFRIENDS-six-friends": {
+        "difficulty": "easy",
+        "platformDifficulty": "0-500",
+        "language": "42",
+        "SIXFRIENDS-six-friends.42": "synced",
         "README.md": "synced"
       }
     }
