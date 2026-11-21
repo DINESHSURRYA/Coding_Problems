@@ -4,11 +4,20 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
+## Accolite
+|  |
+| ------- |
+| [smallest-subarray-sum-greater-than-x](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/smallest-subarray-sum-greater-than-x) |
+## Amazon
+|  |
+| ------- |
+| [smallest-subarray-sum-greater-than-x](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/smallest-subarray-sum-greater-than-x) |
 ## Arrays
 |  |
 | ------- |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
+| [smallest-subarray-sum-greater-than-x](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/smallest-subarray-sum-greater-than-x) |
 | [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
 ## Basic Math
 |  |
@@ -57,6 +66,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DINESHSURRYA/LeetCode/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Facebook
+|  |
+| ------- |
+| [smallest-subarray-sum-greater-than-x](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/smallest-subarray-sum-greater-than-x) |
 ## Find Xor Of Numbers From The Range L R
 |  |
 | ------- |
@@ -65,6 +78,11 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [min-flips-for-alternate](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/min-flips-for-alternate) |
+| [smallest-subarray-sum-greater-than-x](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/smallest-subarray-sum-greater-than-x) |
+## Google
+|  |
+| ------- |
+| [smallest-subarray-sum-greater-than-x](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/smallest-subarray-sum-greater-than-x) |
 ## graphs
 |  |
 | ------- |
@@ -89,6 +107,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
+## sliding-window
+|  |
+| ------- |
+| [smallest-subarray-sum-greater-than-x](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/smallest-subarray-sum-greater-than-x) |
 ## Sorting
 |  |
 | ------- |
