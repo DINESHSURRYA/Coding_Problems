@@ -1,0 +1,1 @@
+<h2><a href="https://codeforces.com/contest/360/problem/B">360B. Levko and Array</a></h2><h3>Difficulty: Unrated</h3><hr><p>Solved on <a href="https://codeforces.com/contest/360/problem/B">Codeforces</a>.</p>

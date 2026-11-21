@@ -118,7 +118,7 @@
     }
   },
   "codeforces": {
-    "solved": 16,
+    "solved": 17,
     "easy": 0,
     "medium": 0,
     "hard": 2,
@@ -233,6 +233,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "487B-strip.cpp": "synced",
+        "README.md": "synced"
+      },
+      "360B-levko-and-array": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "360B-levko-and-array.cpp": "synced",
         "README.md": "synced"
       }
     }
