@@ -82,9 +82,9 @@
     }
   },
   "gfg": {
-    "solved": 5,
+    "solved": 6,
     "easy": 0,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "shas": {
       "repeated-pattern-check": {
@@ -120,6 +120,13 @@
         "platformDifficulty": "Medium",
         "language": "C++",
         "smallest-subarray-sum-greater-than-x.cpp": "synced",
+        "README.md": "synced"
+      },
+      "longest-subarray-sum-divisible-by-k": {
+        "difficulty": "medium",
+        "platformDifficulty": "Medium",
+        "language": "C++",
+        "longest-subarray-sum-divisible-by-k.cpp": "synced",
         "README.md": "synced"
       }
     }
