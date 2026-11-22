@@ -1,7 +1,7 @@
 {
   "leetcode": {
-    "solved": 5,
-    "easy": 0,
+    "solved": 6,
+    "easy": 1,
     "medium": 3,
     "hard": 2,
     "shas": {
@@ -34,6 +34,13 @@
         "platformDifficulty": "Medium",
         "language": "C++",
         "3331-find-subtree-sizes-after-changes.cpp": "synced",
+        "README.md": "synced"
+      },
+      "2124-check-if-all-as-appears-before-all-bs": {
+        "difficulty": "easy",
+        "platformDifficulty": "Easy",
+        "language": "C++",
+        "2124-check-if-all-as-appears-before-all-bs.cpp": "synced",
         "README.md": "synced"
       }
     }

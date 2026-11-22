@@ -133,6 +133,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Easy/2124-check-if-all-as-appears-before-all-bs) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DINESHSURRYA/LeetCode/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
