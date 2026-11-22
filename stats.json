@@ -139,10 +139,10 @@
     }
   },
   "codeforces": {
-    "solved": 17,
+    "solved": 18,
     "easy": 0,
     "medium": 0,
-    "hard": 2,
+    "hard": 3,
     "shas": {
       "486E-lis-of-sequence": {
         "difficulty": "unknown",
@@ -261,6 +261,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "360B-levko-and-array.cpp": "synced",
+        "README.md": "synced"
+      },
+      "369D-valera-and-fools": {
+        "difficulty": "hard",
+        "platformDifficulty": "2200",
+        "language": "C++",
+        "369D-valera-and-fools.cpp": "synced",
         "README.md": "synced"
       }
     }
