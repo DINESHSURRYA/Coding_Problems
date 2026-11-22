@@ -46,8 +46,8 @@
     }
   },
   "codechef": {
-    "solved": 4,
-    "easy": 4,
+    "solved": 5,
+    "easy": 5,
     "medium": 0,
     "hard": 0,
     "shas": {
@@ -77,6 +77,13 @@
         "platformDifficulty": "0-500",
         "language": "42",
         "SIXFRIENDS-six-friends.42": "synced",
+        "README.md": "synced"
+      },
+      "CWIREFRAME-chef-and-wire-frames": {
+        "difficulty": "easy",
+        "platformDifficulty": "0-500",
+        "language": "42",
+        "CWIREFRAME-chef-and-wire-frames.42": "synced",
         "README.md": "synced"
       }
     }

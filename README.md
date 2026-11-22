@@ -32,11 +32,13 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
+| [CWIREFRAME-chef-and-wire-frames](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CWIREFRAME-chef-and-wire-frames) |
 | [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
 ## Basic Programming Concepts
 |  |
 | ------- |
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
+| [CWIREFRAME-chef-and-wire-frames](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CWIREFRAME-chef-and-wire-frames) |
 ## Binary Representation
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
+| [CWIREFRAME-chef-and-wire-frames](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CWIREFRAME-chef-and-wire-frames) |
 | [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
 ## Microsoft
 |  |
