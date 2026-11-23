@@ -34,6 +34,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
 | [CWIREFRAME-chef-and-wire-frames](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CWIREFRAME-chef-and-wire-frames) |
+| [MINCOINSREQ-minimum-coins](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/C%2B%2B/0-500/MINCOINSREQ-minimum-coins) |
 | [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
 ## Basic Programming Concepts
 |  |
@@ -144,6 +145,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
 | [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
 | [CWIREFRAME-chef-and-wire-frames](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CWIREFRAME-chef-and-wire-frames) |
+| [MINCOINSREQ-minimum-coins](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/C%2B%2B/0-500/MINCOINSREQ-minimum-coins) |
 | [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
 ## Microsoft
 |  |
