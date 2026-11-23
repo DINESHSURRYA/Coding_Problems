@@ -146,7 +146,7 @@
     }
   },
   "codeforces": {
-    "solved": 18,
+    "solved": 19,
     "easy": 0,
     "medium": 0,
     "hard": 3,
@@ -275,6 +275,13 @@
         "platformDifficulty": "2200",
         "language": "C++",
         "369D-valera-and-fools.cpp": "synced",
+        "README.md": "synced"
+      },
+      "314C-sereja-and-subsequences": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "314C-sereja-and-subsequences.cpp": "synced",
         "README.md": "synced"
       }
     }
