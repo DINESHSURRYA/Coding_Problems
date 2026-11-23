@@ -44,11 +44,11 @@
         "README.md": "synced"
       },
       "1352-product-of-the-last-k-numbers": {
-        "difficulty": "medium",
-        "platformDifficulty": "Medium",
-        "language": "C++",
         "1352-product-of-the-last-k-numbers.cpp": "synced",
-        "README.md": "synced"
+        "README.md": "synced",
+        "difficulty": "medium",
+        "language": "C++",
+        "platformDifficulty": "Medium"
       }
     }
   },
