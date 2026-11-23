@@ -23,6 +23,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 ## Arrays
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
 | [longest-subarray-sum-divisible-by-k](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/longest-subarray-sum-divisible-by-k) |
@@ -59,6 +60,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
 ## data structures
 |  |
 | ------- |
@@ -69,6 +74,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DINESHSURRYA/LeetCode/tree/main/Medium/0129-sum-root-to-leaf-numbers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
 ## dfs and similar
 |  |
 | ------- |
@@ -125,6 +134,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 ## Mathematics
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
 | [CWIREFRAME-chef-and-wire-frames](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CWIREFRAME-chef-and-wire-frames) |
 | [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
@@ -140,6 +150,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
 | [longest-subarray-sum-divisible-by-k](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/longest-subarray-sum-divisible-by-k) |
 ## shortest paths
 |  |
