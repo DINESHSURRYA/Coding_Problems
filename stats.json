@@ -146,10 +146,10 @@
     }
   },
   "codeforces": {
-    "solved": 19,
+    "solved": 20,
     "easy": 0,
     "medium": 0,
-    "hard": 3,
+    "hard": 4,
     "shas": {
       "486E-lis-of-sequence": {
         "difficulty": "unknown",
@@ -282,6 +282,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "314C-sereja-and-subsequences.cpp": "synced",
+        "README.md": "synced"
+      },
+      "372C-watching-fireworks-is-fun": {
+        "difficulty": "hard",
+        "platformDifficulty": "2100",
+        "language": "C++",
+        "372C-watching-fireworks-is-fun.cpp": "synced",
         "README.md": "synced"
       }
     }

@@ -69,6 +69,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [145E-lucky-queries](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2400/145E-lucky-queries) |
 | [362D-fools-and-foolproof-roads](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/362D-fools-and-foolproof-roads) |
+| [372C-watching-fireworks-is-fun](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/372C-watching-fireworks-is-fun) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [369D-valera-and-fools](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2200/369D-valera-and-fools) |
+| [372C-watching-fireworks-is-fun](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/372C-watching-fireworks-is-fun) |
 ## dsu
 |  |
 | ------- |
@@ -131,6 +133,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [longest-subarray-sum-divisible-by-k](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/longest-subarray-sum-divisible-by-k) |
+## math
+|  |
+| ------- |
+| [372C-watching-fireworks-is-fun](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/372C-watching-fireworks-is-fun) |
 ## Mathematics
 |  |
 | ------- |
