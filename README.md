@@ -142,6 +142,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
+| [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
 | [CWIREFRAME-chef-and-wire-frames](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CWIREFRAME-chef-and-wire-frames) |
 | [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
 ## Microsoft
@@ -149,6 +150,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [longest-subarray-sum-divisible-by-k](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/longest-subarray-sum-divisible-by-k) |
 | [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
+## National Instruments
+|  |
+| ------- |
+| [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
 ## Numbers
 |  |
 | ------- |
@@ -158,6 +163,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
 | [longest-subarray-sum-divisible-by-k](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/longest-subarray-sum-divisible-by-k) |
+## Recursion
+|  |
+| ------- |
+| [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
 ## shortest paths
 |  |
 | ------- |
@@ -185,8 +194,13 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 ## Strings
 |  |
 | ------- |
+| [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
 | [min-flips-for-alternate](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/min-flips-for-alternate) |
 | [repeated-pattern-check](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/repeated-pattern-check) |
+## The Infinite String
+|  |
+| ------- |
+| [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
 ## Tree
 |  |
 | ------- |
