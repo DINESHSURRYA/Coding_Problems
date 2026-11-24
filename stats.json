@@ -174,10 +174,10 @@
     }
   },
   "codeforces": {
-    "solved": 20,
+    "solved": 21,
     "easy": 0,
     "medium": 0,
-    "hard": 4,
+    "hard": 5,
     "shas": {
       "486E-lis-of-sequence": {
         "difficulty": "unknown",
@@ -317,6 +317,13 @@
         "platformDifficulty": "2100",
         "language": "C++",
         "372C-watching-fireworks-is-fun.cpp": "synced",
+        "README.md": "synced"
+      },
+      "592D-super-m": {
+        "difficulty": "hard",
+        "platformDifficulty": "2200",
+        "language": "C++",
+        "592D-super-m.cpp": "synced",
         "README.md": "synced"
       }
     }
