@@ -1,0 +1,1 @@
+<h2><a href="https://codeforces.com/contest/220/problem/B">220B. Little Elephant and Array</a></h2><h3>Difficulty: Unrated</h3><hr><p>Solved on <a href="https://codeforces.com/contest/220/problem/B">Codeforces</a>.</p>
