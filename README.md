@@ -26,6 +26,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Easy/3411-maximum-subarray-with-equal-products) |
 | [longest-subarray-sum-divisible-by-k](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/longest-subarray-sum-divisible-by-k) |
 | [smallest-subarray-sum-greater-than-x](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/smallest-subarray-sum-greater-than-x) |
 | [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
@@ -99,6 +100,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DINESHSURRYA/LeetCode/tree/main/Hard/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Easy/3411-maximum-subarray-with-equal-products) |
 ## Facebook
 |  |
 | ------- |
@@ -142,6 +147,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Easy/3411-maximum-subarray-with-equal-products) |
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
 | [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
 | [CWIREFRAME-chef-and-wire-frames](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CWIREFRAME-chef-and-wire-frames) |
@@ -156,6 +162,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Easy/3411-maximum-subarray-with-equal-products) |
 ## Numbers
 |  |
 | ------- |
@@ -173,6 +183,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [369D-valera-and-fools](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2200/369D-valera-and-fools) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Easy/3411-maximum-subarray-with-equal-products) |
 ## sliding-window
 |  |
 | ------- |

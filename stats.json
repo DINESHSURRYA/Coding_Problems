@@ -1,7 +1,7 @@
 {
   "leetcode": {
-    "solved": 7,
-    "easy": 1,
+    "solved": 8,
+    "easy": 2,
     "medium": 4,
     "hard": 2,
     "shas": {
@@ -49,6 +49,13 @@
         "difficulty": "medium",
         "language": "C++",
         "platformDifficulty": "Medium"
+      },
+      "3411-maximum-subarray-with-equal-products": {
+        "difficulty": "easy",
+        "platformDifficulty": "Easy",
+        "language": "C++",
+        "3411-maximum-subarray-with-equal-products.cpp": "synced",
+        "README.md": "synced"
       }
     }
   },
