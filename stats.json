@@ -174,7 +174,7 @@
     }
   },
   "codeforces": {
-    "solved": 21,
+    "solved": 22,
     "easy": 0,
     "medium": 0,
     "hard": 5,
@@ -320,10 +320,17 @@
         "README.md": "synced"
       },
       "592D-super-m": {
-        "difficulty": "hard",
-        "platformDifficulty": "2200",
-        "language": "C++",
         "592D-super-m.cpp": "synced",
+        "README.md": "synced",
+        "difficulty": "hard",
+        "language": "C++",
+        "platformDifficulty": "2200"
+      },
+      "359C-prime-number": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "359C-prime-number.cpp": "synced",
         "README.md": "synced"
       }
     }
