@@ -27,6 +27,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Easy/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3934-smallest-unique-subarray) |
 | [longest-subarray-sum-divisible-by-k](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/longest-subarray-sum-divisible-by-k) |
 | [smallest-subarray-sum-greater-than-x](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/smallest-subarray-sum-greater-than-x) |
 | [sort-in-specific-order](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/sort-in-specific-order) |
@@ -46,6 +47,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [min-flips-for-alternate](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/min-flips-for-alternate) |
+## Binary Search
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3934-smallest-unique-subarray) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,10 +136,15 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [362D-fools-and-foolproof-roads](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/362D-fools-and-foolproof-roads) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3934-smallest-unique-subarray) |
 | [longest-subarray-sum-divisible-by-k](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/longest-subarray-sum-divisible-by-k) |
 ## implementation
 |  |
@@ -184,6 +194,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3934-smallest-unique-subarray) |
 ## shortest paths
 |  |
 | ------- |
@@ -218,6 +232,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
 | [min-flips-for-alternate](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/min-flips-for-alternate) |
 | [repeated-pattern-check](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/repeated-pattern-check) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Hard/3934-smallest-unique-subarray) |
 ## The Infinite String
 |  |
 | ------- |
