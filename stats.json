@@ -67,8 +67,8 @@
     }
   },
   "codechef": {
-    "solved": 7,
-    "easy": 7,
+    "solved": 8,
+    "easy": 8,
     "medium": 0,
     "hard": 0,
     "shas": {
@@ -119,6 +119,13 @@
         "platformDifficulty": "0-500",
         "language": "42",
         "KITCHENSPICE-spice-level.42": "synced",
+        "README.md": "synced"
+      },
+      "CS2023_GIFT-the-gift": {
+        "difficulty": "easy",
+        "platformDifficulty": "0-500",
+        "language": "42",
+        "CS2023_GIFT-the-gift.42": "synced",
         "README.md": "synced"
       }
     }
@@ -181,7 +188,7 @@
     }
   },
   "codeforces": {
-    "solved": 24,
+    "solved": 25,
     "easy": 0,
     "medium": 0,
     "hard": 7,
@@ -348,10 +355,17 @@
         "README.md": "synced"
       },
       "463E-caisa-and-tree": {
-        "difficulty": "hard",
-        "platformDifficulty": "2100",
-        "language": "C++",
         "463E-caisa-and-tree.cpp": "synced",
+        "README.md": "synced",
+        "difficulty": "hard",
+        "language": "C++",
+        "platformDifficulty": "2100"
+      },
+      "366C-dima-and-salad": {
+        "difficulty": "unknown",
+        "platformDifficulty": "Unrated",
+        "language": "C++",
+        "366C-dima-and-salad.cpp": "synced",
         "README.md": "synced"
       }
     }
