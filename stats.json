@@ -67,8 +67,8 @@
     }
   },
   "codechef": {
-    "solved": 7,
-    "easy": 7,
+    "solved": 8,
+    "easy": 8,
     "medium": 0,
     "hard": 0,
     "shas": {
@@ -119,6 +119,13 @@
         "platformDifficulty": "0-500",
         "language": "42",
         "KITCHENSPICE-spice-level.42": "synced",
+        "README.md": "synced"
+      },
+      "CS2023_GIFT-the-gift": {
+        "difficulty": "easy",
+        "platformDifficulty": "0-500",
+        "language": "42",
+        "CS2023_GIFT-the-gift.42": "synced",
         "README.md": "synced"
       }
     }
