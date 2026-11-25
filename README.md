@@ -59,10 +59,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [xor-of-number-range](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/xor-of-number-range) |
-## bitmasks
+## brute force
 |  |
 | ------- |
-| [388B-fox-and-minimal-path](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/1900/388B-fox-and-minimal-path) |
+| [463E-caisa-and-tree](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/463E-caisa-and-tree) |
 ## Check String Follows Anbn Pattern Not
 |  |
 | ------- |
@@ -71,10 +71,6 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [SIXFRIENDS-six-friends](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/SIXFRIENDS-six-friends) |
-## constructive algorithms
-|  |
-| ------- |
-| [388B-fox-and-minimal-path](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/1900/388B-fox-and-minimal-path) |
 ## Data Stream
 |  |
 | ------- |
@@ -99,6 +95,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [362D-fools-and-foolproof-roads](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/362D-fools-and-foolproof-roads) |
 | [369D-valera-and-fools](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2200/369D-valera-and-fools) |
+| [463E-caisa-and-tree](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/463E-caisa-and-tree) |
 ## dp
 |  |
 | ------- |
@@ -140,7 +137,6 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [362D-fools-and-foolproof-roads](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/362D-fools-and-foolproof-roads) |
 | [369D-valera-and-fools](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2200/369D-valera-and-fools) |
-| [388B-fox-and-minimal-path](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/1900/388B-fox-and-minimal-path) |
 ## greedy
 |  |
 | ------- |
@@ -158,7 +154,6 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 ## implementation
 |  |
 | ------- |
-| [388B-fox-and-minimal-path](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/1900/388B-fox-and-minimal-path) |
 | [507D-the-maths-lecture](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2200/507D-the-maths-lecture) |
 ## Longest Subarray Sum Divisible K
 |  |
@@ -168,7 +163,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [372C-watching-fireworks-is-fun](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/372C-watching-fireworks-is-fun) |
-| [388B-fox-and-minimal-path](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/1900/388B-fox-and-minimal-path) |
+| [463E-caisa-and-tree](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/463E-caisa-and-tree) |
 ## Mathematics
 |  |
 | ------- |
@@ -188,6 +183,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
+## number theory
+|  |
+| ------- |
+| [463E-caisa-and-tree](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/463E-caisa-and-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -256,6 +255,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DINESHSURRYA/LeetCode/tree/main/Medium/0129-sum-root-to-leaf-numbers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
+## trees
+|  |
+| ------- |
+| [463E-caisa-and-tree](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/463E-caisa-and-tree) |
 ## Two Pointers
 |  |
 | ------- |
