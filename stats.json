@@ -67,8 +67,8 @@
     }
   },
   "codechef": {
-    "solved": 8,
-    "easy": 8,
+    "solved": 7,
+    "easy": 7,
     "medium": 0,
     "hard": 0,
     "shas": {
@@ -119,13 +119,6 @@
         "platformDifficulty": "0-500",
         "language": "42",
         "KITCHENSPICE-spice-level.42": "synced",
-        "README.md": "synced"
-      },
-      "CS2023_GIFT-the-gift": {
-        "difficulty": "easy",
-        "platformDifficulty": "0-500",
-        "language": "42",
-        "CS2023_GIFT-the-gift.42": "synced",
         "README.md": "synced"
       }
     }
@@ -188,10 +181,10 @@
     }
   },
   "codeforces": {
-    "solved": 23,
+    "solved": 24,
     "easy": 0,
     "medium": 0,
-    "hard": 6,
+    "hard": 7,
     "shas": {
       "486E-lis-of-sequence": {
         "difficulty": "unknown",
@@ -352,6 +345,13 @@
         "platformDifficulty": "2200",
         "language": "C++",
         "507D-the-maths-lecture.cpp": "synced",
+        "README.md": "synced"
+      },
+      "463E-caisa-and-tree": {
+        "difficulty": "hard",
+        "platformDifficulty": "2100",
+        "language": "C++",
+        "463E-caisa-and-tree.cpp": "synced",
         "README.md": "synced"
       }
     }
