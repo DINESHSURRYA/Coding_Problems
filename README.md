@@ -173,7 +173,6 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
-| [3360-stone-removal-game](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Easy/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Easy/3411-maximum-subarray-with-equal-products) |
 | [CARTRIP-car-trip](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codechef/42/0-500/CARTRIP-car-trip) |
 | [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
@@ -202,6 +201,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
 | [longest-subarray-sum-divisible-by-k](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/longest-subarray-sum-divisible-by-k) |
+| [range-vowel-count-queries](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/range-vowel-count-queries) |
 ## Recursion
 |  |
 | ------- |
@@ -214,10 +214,6 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [369D-valera-and-fools](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2200/369D-valera-and-fools) |
-## Simulation
-|  |
-| ------- |
-| [3360-stone-removal-game](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Easy/3360-stone-removal-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -247,6 +243,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
 | [min-flips-for-alternate](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/min-flips-for-alternate) |
+| [range-vowel-count-queries](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/range-vowel-count-queries) |
 | [repeated-pattern-check](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/repeated-pattern-check) |
 ## Suffix Array
 |  |
