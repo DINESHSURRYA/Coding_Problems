@@ -1,7 +1,7 @@
 {
   "leetcode": {
-    "solved": 10,
-    "easy": 3,
+    "solved": 9,
+    "easy": 2,
     "medium": 4,
     "hard": 3,
     "shas": {
@@ -62,13 +62,6 @@
         "platformDifficulty": "Hard",
         "language": "C++",
         "3934-smallest-unique-subarray.cpp": "synced",
-        "README.md": "synced"
-      },
-      "3360-stone-removal-game": {
-        "difficulty": "easy",
-        "platformDifficulty": "Easy",
-        "language": "C++",
-        "3360-stone-removal-game.cpp": "synced",
         "README.md": "synced"
       }
     }
@@ -138,9 +131,9 @@
     }
   },
   "gfg": {
-    "solved": 7,
+    "solved": 9,
     "easy": 0,
-    "medium": 7,
+    "medium": 9,
     "hard": 0,
     "shas": {
       "repeated-pattern-check": {
@@ -190,6 +183,20 @@
         "platformDifficulty": "Medium",
         "language": "C++",
         "character-at-position-in-infinite-string.cpp": "synced",
+        "README.md": "synced"
+      },
+      "two-pairs-with-same-sum": {
+        "README.md": "synced",
+        "difficulty": "medium",
+        "language": "C++",
+        "platformDifficulty": "Medium",
+        "two-pairs-with-same-sum.cpp": "synced"
+      },
+      "range-vowel-count-queries": {
+        "difficulty": "medium",
+        "platformDifficulty": "Medium",
+        "language": "C++",
+        "range-vowel-count-queries.cpp": "synced",
         "README.md": "synced"
       }
     }
