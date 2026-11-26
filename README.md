@@ -202,7 +202,6 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/1352-product-of-the-last-k-numbers) |
 | [longest-subarray-sum-divisible-by-k](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/longest-subarray-sum-divisible-by-k) |
-| [range-vowel-count-queries](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/range-vowel-count-queries) |
 ## Recursion
 |  |
 | ------- |
@@ -248,7 +247,6 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [character-at-position-in-infinite-string](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/character-at-position-in-infinite-string) |
 | [min-flips-for-alternate](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/min-flips-for-alternate) |
-| [range-vowel-count-queries](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/range-vowel-count-queries) |
 | [repeated-pattern-check](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/repeated-pattern-check) |
 ## Suffix Array
 |  |
