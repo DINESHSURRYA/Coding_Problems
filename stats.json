@@ -81,8 +81,8 @@
     }
   },
   "codechef": {
-    "solved": 8,
-    "easy": 8,
+    "solved": 9,
+    "easy": 9,
     "medium": 0,
     "hard": 0,
     "shas": {
@@ -140,6 +140,13 @@
         "platformDifficulty": "0-500",
         "language": "42",
         "CS2023_GIFT-the-gift.42": "synced",
+        "README.md": "synced"
+      },
+      "DOREWARD-donation-rewards": {
+        "difficulty": "easy",
+        "platformDifficulty": "0-500",
+        "language": "42",
+        "DOREWARD-donation-rewards.42": "synced",
         "README.md": "synced"
       }
     }
