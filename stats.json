@@ -1,8 +1,8 @@
 {
   "leetcode": {
-    "solved": 10,
+    "solved": 11,
     "easy": 3,
-    "medium": 4,
+    "medium": 5,
     "hard": 3,
     "shas": {
       "0129-sum-root-to-leaf-numbers": {
@@ -69,6 +69,13 @@
         "platformDifficulty": "Easy",
         "language": "C++",
         "3360-stone-removal-game.cpp": "synced",
+        "README.md": "synced"
+      },
+      "3946-maximum-number-of-items-from-sale-i": {
+        "difficulty": "medium",
+        "platformDifficulty": "Medium",
+        "language": "C++",
+        "3946-maximum-number-of-items-from-sale-i.cpp": "synced",
         "README.md": "synced"
       }
     }
