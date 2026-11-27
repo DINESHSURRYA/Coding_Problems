@@ -146,6 +146,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 ## greedy
 |  |
 | ------- |
+| [346C-number-transformation-ii](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2200/346C-number-transformation-ii) |
 | [362D-fools-and-foolproof-roads](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/362D-fools-and-foolproof-roads) |
 ## Greedy
 |  |
@@ -173,6 +174,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 ## math
 |  |
 | ------- |
+| [346C-number-transformation-ii](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2200/346C-number-transformation-ii) |
 | [372C-watching-fireworks-is-fun](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/372C-watching-fireworks-is-fun) |
 | [388B-fox-and-minimal-path](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/1900/388B-fox-and-minimal-path) |
 ## Mathematics

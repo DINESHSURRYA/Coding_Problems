@@ -216,10 +216,10 @@
     }
   },
   "codeforces": {
-    "solved": 25,
+    "solved": 26,
     "easy": 0,
     "medium": 0,
-    "hard": 7,
+    "hard": 8,
     "shas": {
       "486E-lis-of-sequence": {
         "difficulty": "unknown",
@@ -394,6 +394,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "366C-dima-and-salad.cpp": "synced",
+        "README.md": "synced"
+      },
+      "346C-number-transformation-ii": {
+        "difficulty": "hard",
+        "platformDifficulty": "2200",
+        "language": "C++",
+        "346C-number-transformation-ii.cpp": "synced",
         "README.md": "synced"
       }
     }
