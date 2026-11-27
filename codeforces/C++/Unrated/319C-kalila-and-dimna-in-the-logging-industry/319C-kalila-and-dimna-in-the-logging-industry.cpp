@@ -2,11 +2,10 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int LOG = 18;
 const int N = 100005;
+const int LOG = 18;
 
-vector<int> adj[N];
-vector<int> atDepth[N];
+vector<int> adj[N], atDepth[N];
 
 int up[N][LOG];
 int depth[N], tin[N], tout[N];
@@ -59,13 +58,14 @@ int main() {
         }
     }
 
-    // Build the forest.
+    // DFS from every root
     for (int i = 1; i <= n; i++) {
         if (parent[i] == 0) {
             dfs(i, 0, 0);
         }
     }
 
+    int m;
     cin >> m;
 
     while (m--) {
@@ -78,20 +78,18 @@ int main() {
         }
 
         int ancestor = kthAncestor(v, p);
-        int targetDepth = depth[v];
 
-        auto &vec = atDepth[targetDepth];
+        auto &vec = atDepth[depth[v]];
 
-        int left = lower_bound(
+        int l = lower_bound(
             vec.begin(), vec.end(), tin[ancestor]
         ) - vec.begin();
 
-        int right = upper_bound(
+        int r = upper_bound(
             vec.begin(), vec.end(), tout[ancestor]
         ) - vec.begin();
 
-        // Exclude the queried person itself.
-        cout << right - left - 1 << ' ';
+        cout << r - l - 1 << ' ';
     }
 
     cout << '\n';
