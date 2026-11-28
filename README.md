@@ -49,6 +49,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [min-flips-for-alternate](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/gfg/C%2B%2B/Medium/min-flips-for-alternate) |
+## binary search
+|  |
+| ------- |
+| [208E-blood-cousins](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/208E-blood-cousins) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 |  |
 | ------- |
 | [145E-lucky-queries](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2400/145E-lucky-queries) |
+| [208E-blood-cousins](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/208E-blood-cousins) |
 | [362D-fools-and-foolproof-roads](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/362D-fools-and-foolproof-roads) |
 | [372C-watching-fireworks-is-fun](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/372C-watching-fireworks-is-fun) |
 ## Depth-First Search
@@ -99,6 +104,7 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 ## dfs and similar
 |  |
 | ------- |
+| [208E-blood-cousins](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/208E-blood-cousins) |
 | [362D-fools-and-foolproof-roads](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/362D-fools-and-foolproof-roads) |
 | [369D-valera-and-fools](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2200/369D-valera-and-fools) |
 ## dp
@@ -276,6 +282,10 @@ A collection of Accepted LeetCode solutions automatically synced with [LeetHub S
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/DINESHSURRYA/LeetCode/tree/main/Medium/0129-sum-root-to-leaf-numbers) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/leetcode/C%2B%2B/Medium/3331-find-subtree-sizes-after-changes) |
+## trees
+|  |
+| ------- |
+| [208E-blood-cousins](https://github.com/DINESHSURRYA/Coding_Problems/tree/main/codeforces/C%2B%2B/2100/208E-blood-cousins) |
 ## Two Pointers
 |  |
 | ------- |
