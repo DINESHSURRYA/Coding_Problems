@@ -88,8 +88,8 @@
     }
   },
   "codechef": {
-    "solved": 9,
-    "easy": 9,
+    "solved": 10,
+    "easy": 10,
     "medium": 0,
     "hard": 0,
     "shas": {
@@ -154,6 +154,13 @@
         "platformDifficulty": "0-500",
         "language": "42",
         "DOREWARD-donation-rewards.42": "synced",
+        "README.md": "synced"
+      },
+      "TFPAPER-true-and-false-paper": {
+        "difficulty": "easy",
+        "platformDifficulty": "0-500",
+        "language": "42",
+        "TFPAPER-true-and-false-paper.42": "synced",
         "README.md": "synced"
       }
     }
