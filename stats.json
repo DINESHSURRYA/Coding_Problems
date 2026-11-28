@@ -237,10 +237,10 @@
     }
   },
   "codeforces": {
-    "solved": 28,
+    "solved": 29,
     "easy": 0,
     "medium": 0,
-    "hard": 9,
+    "hard": 10,
     "shas": {
       "486E-lis-of-sequence": {
         "difficulty": "unknown",
@@ -436,6 +436,13 @@
         "platformDifficulty": "1900",
         "language": "C++",
         "388B-fox-and-minimal-path.cpp": "synced",
+        "README.md": "synced"
+      },
+      "208E-blood-cousins": {
+        "difficulty": "hard",
+        "platformDifficulty": "2100",
+        "language": "C++",
+        "208E-blood-cousins.cpp": "synced",
         "README.md": "synced"
       }
     }
