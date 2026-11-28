@@ -230,10 +230,10 @@
     }
   },
   "codeforces": {
-    "solved": 27,
+    "solved": 28,
     "easy": 0,
     "medium": 0,
-    "hard": 8,
+    "hard": 9,
     "shas": {
       "486E-lis-of-sequence": {
         "difficulty": "unknown",
@@ -422,6 +422,13 @@
         "platformDifficulty": "Unrated",
         "language": "C++",
         "319C-kalila-and-dimna-in-the-logging-industry.cpp": "synced",
+        "README.md": "synced"
+      },
+      "388B-fox-and-minimal-path": {
+        "difficulty": "hard",
+        "platformDifficulty": "1900",
+        "language": "C++",
+        "388B-fox-and-minimal-path.cpp": "synced",
         "README.md": "synced"
       }
     }
