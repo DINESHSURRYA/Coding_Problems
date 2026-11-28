@@ -1,8 +1,8 @@
 {
   "leetcode": {
-    "solved": 11,
+    "solved": 12,
     "easy": 3,
-    "medium": 5,
+    "medium": 6,
     "hard": 3,
     "shas": {
       "0129-sum-root-to-leaf-numbers": {
@@ -76,6 +76,13 @@
         "platformDifficulty": "Medium",
         "language": "C++",
         "3946-maximum-number-of-items-from-sale-i.cpp": "synced",
+        "README.md": "synced"
+      },
+      "3947-maximum-number-of-items-from-sale-ii": {
+        "difficulty": "medium",
+        "platformDifficulty": "Medium",
+        "language": "C++",
+        "3947-maximum-number-of-items-from-sale-ii.cpp": "synced",
         "README.md": "synced"
       }
     }
